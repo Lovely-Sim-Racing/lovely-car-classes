@@ -10,6 +10,9 @@ A comprehensive list of Car Class name Shorthands for use in Sim Racing Games.
 
 ---
 
+# How To
+
+All you need to do is fetch the url `https://raw.githubusercontent.com/Lovely-Sim-Racing/lovely-car-classes/main/data/car-classes.json`. Car Classes are simple Label:Value pairs.
 
 
 
