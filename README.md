@@ -50,4 +50,4 @@ pretty format json.......................................................Passed
 
 ---
 
-© 2025 by <a href="https://creativecommons.org">Lovely Sim Racing</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://licensebuttons.net/l/by-nc-sa/3.0/80x15.png" width="80" height="15" style="margin-left: .2em;">
+© 2025 by <a href="https://creativecommons.org">Lovely Sim Racing</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
